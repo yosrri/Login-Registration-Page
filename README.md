@@ -11,8 +11,8 @@ College Project solo
    - Email has a valid format.
    
 ## Learned:
-   -phpMyAdmin
-   -MySQL
-   -Relational Database
-   -Applying Validations
-   -HTML, CSS, JavaScript, PHP.
+   - phpMyAdmin
+   - MySQL
+   - Relational Database
+   - Applying Validations
+   - HTML, CSS, JavaScript, PHP.
