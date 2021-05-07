@@ -17,4 +17,4 @@ College Project solo
    - Applying Validations
    - HTML, CSS, JavaScript, PHP, Bootstrap.
 
-![alt text](https://github.com/[yosrri]/[Login-Page]/blob/[main]/image.png?raw=true)
+![image.png](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
