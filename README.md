@@ -15,4 +15,4 @@ College Project solo
    - MySQL
    - Relational Database
    - Applying Validations
-   - HTML, CSS, JavaScript, PHP.
+   - HTML, CSS, JavaScript, PHP, Bootstrap.
